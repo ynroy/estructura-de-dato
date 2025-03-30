@@ -1,2 +1,1 @@
 
-print(auto_din)
